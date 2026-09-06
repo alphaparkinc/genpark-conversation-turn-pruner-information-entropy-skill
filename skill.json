@@ -1,0 +1,15 @@
+{
+  "name": "genpark-conversation-turn-pruner-information-entropy-skill",
+  "version": "1.0.0",
+  "description": "Information entropy and lexical diversity turn pruner stripping conversational noise while preserving core user intent.",
+  "author": "GenPark AI",
+  "license": "MIT",
+  "keywords": [
+    "turn-pruner",
+    "information-entropy",
+    "noise-filtering",
+    "token-conservation",
+    "genpark",
+    "mcp"
+  ]
+}
